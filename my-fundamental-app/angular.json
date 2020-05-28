@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-fundamental-app"
+    }
+  },
+  "defaultProject": "my-fundamental-app",
+  "cli": {
+    "analytics": "a326e221-bac1-4cee-aec3-4684e236e70a"
+  }
 }
